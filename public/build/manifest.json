@@ -1,0 +1,16 @@
+{
+  "public/images/sidebg.jpg": {
+    "file": "assets/sidebg.7666622d.jpg",
+    "src": "public/images/sidebg.jpg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.7cafe3db.js",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/css/app.css": {
+    "file": "assets/app.0b51922e.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  }
+}
